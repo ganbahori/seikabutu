@@ -1,0 +1,834 @@
+﻿.menu{
+    background-color: #c7c7c959;
+    width: 100%;
+    height:50px;
+}
+.back {
+    background-color: rgba(255, 255, 255, 0.849);
+    margin: 0 auto;
+    width: 100%;
+    height: 700px;
+    max-width: 800px;
+    border-radius: 10px;
+
+}
+.back1{
+    background-color: #333232ee;
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+    max-width: 500px;
+    border-radius: 10px;
+}
+.imazine{
+    height: 200px;
+    background-size:cover;
+
+}
+.waku{
+    background-color: rgba(110, 108, 108, 0.425);
+    width:400px;
+    height:600px;
+    border-radius: 20px;
+    border: solid thin #0f0f0f;
+}
+.namelavel{
+    background-color:rgba(0,222,222,0.40);
+    margin:0 auto;
+    width:100%;
+    max-width:800px;
+    font-size:1rem;
+    line-height:auto;
+
+}
+.waku2{
+    background-color: rgb(252, 250, 250);
+    width:450px;
+    height:150px;
+    border-radius: 20px;
+    border: solid thin #0f0f0f;
+}
+
+
+
+
+
+
+
+.jumbotronad{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+    .backad{
+  background-color:  rgb(252, 250, 250);
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.jumbotronadc{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+    .backadc{
+  background-color:  rgb(252, 250, 250);
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.jumbotronade{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+    .backade{
+  background-color:  rgb(252, 250, 250);
+    margin: 0 auto;
+    width: 100%;
+    height: 300px;
+    max-width: 500px;
+    border-radius: 10px;
+}
+
+.namelavelal {
+    background-color: rgba(0,222,222,0.40);
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    font-size: 1rem;
+    line-height: auto;
+    /*border-radius: 10px;*/
+}
+
+.back0al{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size:cover;
+    padding: 100px 0;
+    margin: 0;
+}
+.back1al{
+    background-color: white;
+    padding: 20px 10px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+}
+.back2al{
+    background-color: white;
+    padding: 20px 10px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+    font-size: 1rem;
+    line-height: auto;
+}
+
+.imgal{
+                    width:auto;
+                    height:auto;
+                    max-width:100px;
+                    max-height:100px;
+}
+
+.jumbotronald{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+.adaptald {
+width:auto;
+height:auto;
+max-width:100%;
+max-height:100%;
+}
+.backald {
+background-color: rgba(255, 255, 255, 0.849);
+margin: 0 auto;
+width: 100%;
+height: 700px;
+max-width: 800px;
+border-radius: 10px;
+
+}
+.imazineald{
+height: 200px;
+background-size:cover;
+
+}
+.wakuald{
+background-color: rgba(110, 108, 108, 0.425);
+width:400px;
+height:600px;
+border-radius: 20px;
+border: solid thin #0f0f0f;
+}
+.namelavelald{
+background-color:rgba(0,222,222,0.40);
+margin:0 auto;
+width:100%;
+max-width:800px;
+font-size:1rem;
+line-height:auto;
+
+}
+.waku2ald{
+background-color: rgb(252, 250, 250);
+width:450px;
+height:150px;
+border-radius: 20px;
+border: solid thin #0f0f0f;
+}
+
+.imgal{
+    width:100px;
+    height:100px;
+
+}
+
+.back0apc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1apc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+.back0apcc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1apcc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+.h4apcc {
+    text-align: center;
+    font-size: 40px;
+}
+
+.jumbotroncr{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+.backcr{
+background-color: rgba(255, 255, 255, 0.849);
+margin: 0 auto;
+width: 100%;
+height: 600px;
+max-width: 700px;
+border-radius: 10px;
+}
+
+.namelavelcr{
+background-color:rgba(0,222,222,0.40);
+margin:0 auto;
+width:100%;
+max-width:700px;
+font-size:1rem;
+line-height:auto;
+}
+
+.chatusercr{
+height:120px;
+border: solid thin #0f0f0f;
+}
+
+.chatuserimgcr{
+height:100px;
+}
+.waku3cr{
+height:100px;
+
+
+}
+.waku4cr{
+height:100px;
+
+
+}
+.imgcr {
+width:auto;
+height:auto;
+max-width:100%;
+max-height:100%;
+}
+
+.namelavelcrd {
+    background-color: black;
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    font-size: 1rem;
+
+    line-height: auto;
+    /*border-radius: 10px;*/
+}
+    .back0crd{
+        position: relative;
+        background-image: url("../img/tophaikei.jpg");
+        background-size:cover;
+        padding: 200px 0;
+        margin: 0;
+    }
+
+    .back3crd{
+        background-color: #D8F3F0;
+        padding: 20px 10px;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+        font-size: 1rem;
+        line-height: auto;
+    }
+
+#chat-frame {
+  min-width: 320px;
+  max-width: 800px;
+
+  padding: 1em 2em;
+
+}
+.chat-talk {
+  overflow: hidden;
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+.chat-talk span {
+  display: block;
+  margin: 0;
+  padding: 0;
+
+}
+.chat-talk .talk-icon {
+  float: left;
+  width: auto;
+}
+.chat-talk .talk-content {
+  position: relative;
+  box-sizing: border-box;
+  width: auto;
+  min-height: 50px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 0 auto 0 70px;
+  padding: 1em;
+}
+.chat-talk .talk-icon img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+.chat-talk .talk-content:before {
+  position: absolute;
+  top: 15px;
+  left: -20px;
+  display: block;
+  width: 0;
+  height: 0;
+  content: '';
+  border: 10px solid transparent;
+  border-right-color: #FFFFFF;
+}
+.chat-talk.mytalk .talk-icon {
+  float: right;
+}
+.chat-talk.mytalk .talk-content {
+  margin: 0 70px 0 auto;
+  color: #000;
+  background: #78FF6C;
+}
+.chat-talk.mytalk .talk-content:before {
+  right: -20px;
+  left: auto;
+  border-color: transparent;
+  border-left-color: #78FF6C;
+}
+    #ask{
+      border:none;
+      border-radius:30px;
+      padding: 5px 10px;
+    }
+
+    .namelavelindex {
+        background-color: rgba(0,222,222,0.40);
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+        font-size: 1rem;
+        line-height: auto;
+        /*border-radius: 10px;*/
+    }
+        .back0index{
+            position: relative;
+            background-image: url("../img/tophaikei.jpg");
+            background-size:cover;
+            padding:     500px 0;
+            margin: 0;
+        }
+        .back1index{
+            background-color: white;
+            padding: 50px 10px;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 900px;
+            font-size: 1rem;
+            line-height: 1.7;
+            border-radius: 10px;
+        }
+        .back2index{
+            background-color: white;
+            padding: 20px 10px;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 900px;
+            font-size: 1rem;
+            line-height: auto;
+        }
+        .imgindex{
+            width:auto;
+            height:auto;
+            max-width:100px;
+            max-height:100px;
+    }
+
+    .jumbotronlogout{
+        position: relative;
+        background-image: url("../img/tophaikei.jpg");
+        background-size: cover;
+        padding: 200px 0;
+    }
+
+    .backlogout{
+        background-color:  rgb(252, 250, 250);
+        margin: 0 auto;
+        width: 100%;
+        height: 300px;
+        max-width: 500px;
+        border-radius: 10px;
+        }
+
+        .jumbotronmbd{
+            position: relative;
+            background-image: url("../img/tophaikei.jpg");
+            background-size: cover;
+            padding: 200px 0;
+        }
+        .adaptmbd {
+        background-color: rgba(59, 59, 59, 0.253);
+                width: 100%;
+                height: 200px;
+    }
+
+    .backmbd {
+        background-color: rgba(255, 255, 255, 0.849);
+        margin: 0 auto;
+        width: 100%;
+        height: 700px;
+        max-width: 800px;
+        border-radius: 10px;
+
+    }
+    .imazinembd{
+        width:auto;
+                height:auto;
+                max-width:100%;
+                max-height:100%;
+
+    }
+    .wakumbd{
+        background-color: rgba(110, 108, 108, 0.425);
+        width:400px;
+        height:600px;
+        border-radius: 20px;
+        border: solid thin #0f0f0f;
+    }
+    .namelavelmbd{
+        background-color:rgba(0,222,222,0.40);
+        margin:0 auto;
+        width:100%;
+        max-width:800px;
+        font-size:1rem;
+        line-height:auto;
+
+    }
+
+    .namelavelmbp {
+        background-color: rgba(0,222,222,0.40);
+        margin: 0 auto;
+        width: 100%;
+        max-width: 900px;
+        font-size: 1rem;
+        line-height: 2.0;
+        border-radius: 10px 10px 0px 0px;
+    }
+        .back0mbp{
+            position: relative;
+            background-image: url("../img/tophaikei.jpg");
+            background-color: green;
+            background-size:cover;
+            padding: 250px 0;
+            margin: 0;
+        }
+        .back1mbp{
+            background-color: white;
+            padding: 50px 10px;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 900px;
+            font-size: 1rem;
+            line-height: 1.7;
+            border-radius: 0px 0px 10px 10px;
+        }
+
+        .form-groupmbp{
+            width: 70%;
+
+        }
+
+        .jumbotronmbpc{
+            position: relative;
+            background-image: url("../img/tophaikei.jpg");
+            background-size: cover;
+            padding: 200px 0;
+        }
+        .backmbpc{
+          background-color:  rgb(252, 250, 250);
+            margin: 0 auto;
+            width: 100%;
+            height: 300px;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+
+        .namelavelmbpcr {
+            background-color: rgba(0,222,222,0.40);
+            margin-top: 30px;
+            margin: 0 auto;
+            width: 100%;
+            max-width: 900px;
+            font-size: 1rem;
+            line-height: 2.0;
+            border-radius: 10px 10px 0px 0px;
+        }
+            .back0mbpcr{
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size:cover;
+                padding: 500px 0;
+                margin: 0;
+            }
+            .back1mbpcr{
+                background-color: white;
+                padding: 50px 10px;
+                margin: 0 auto;
+                width: 100%;
+                max-width: 900px;
+                font-size: 1rem;
+                line-height: 1.7;
+                border-radius: 0px 0px 10px 10px;
+            }
+            .form-groupmbpcr{
+                width: 70%;
+
+            }
+
+            .jumbotronmbpcrc{
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size: cover;
+                padding: 200px 0;
+            }
+                .backmbpcrc{
+              background-color:  rgb(252, 250, 250);
+                margin: 0 auto;
+                width: 100%;
+                height: 300px;
+                max-width: 500px;
+                border-radius: 10px;
+            }
+
+            .jumbotronmbpd{
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size: cover;
+                padding: 200px 0;
+            }
+                .backmbpd{
+              background-color:  rgb(252, 250, 250);
+                margin: 0 auto;
+                width: 100%;
+                height: 300px;
+                max-width: 500px;
+                border-radius: 10px;
+            }
+
+            .jumbotronmbpdc{
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size: cover;
+                padding: 200px 0;
+            }
+                .backmbpdc{
+              background-color:  rgb(252, 250, 250);
+                margin: 0 auto;
+                width: 100%;
+                height: 300px;
+                max-width: 500px;
+                border-radius: 10px;
+            }
+
+            .namelavelmbph {
+                background-color: rgba(0,222,222,0.40);
+                margin: 0 auto;
+                width: 100%;
+                max-width: 900px;
+                font-size: 1rem;
+                line-height: auto;
+                /*border-radius: 10px;*/
+            }
+                .back0mbph{
+                    position: relative;
+                    background-image: url("../img/tophaikei.jpg");
+                    background-size:cover;
+                    padding: 100px 0;
+                    margin: 0;
+                }
+                .back1mbph{
+                    background-color: white;
+                    padding: 20px 10px;
+                    margin: 0 auto;
+                    width: 100%;
+                    max-width: 900px;
+                    font-size: 1rem;
+                    line-height: 1.7;
+                    border-radius: 10px;
+                }
+                .back2mbph{
+                    background-color: white;
+                    padding: 20px 10px;
+                    margin: 0 auto;
+                    width: 100%;
+                    max-width: 900px;
+                    font-size: 1rem;
+                    line-height: auto;
+                }
+                .imgmbph{
+                    width:auto;
+                    height:auto;
+                    width:100px;
+                    height:100px;
+            }
+
+            .jumbotronmpd {
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size: cover;
+                padding: 200px 0;
+            }
+
+            imgmpd {
+                width: auto;
+                height: auto;
+                max-width: 100%;
+                max-height: 100%;
+            }
+
+            .menumpd {
+                background-color: #c7c7c959;
+                width: 100%;
+                height: 50px;
+            }
+
+            .back0mpd {
+                background-color: rgba(255, 253, 253, 0.932);
+                margin: 0 auto;
+                width: 100%;
+                height: 400px;
+                max-width: 800px;
+                border-radius: 10px;
+            }
+
+            .back1mpd {
+                background-color: rgba(255, 253, 253, 0.932);
+                margin: 0 auto;
+                width: 100%;
+                height: 200px;
+                max-width: 500px;
+                border-radius: 10px;
+            }
+
+            .imazinempd {
+                
+                width: 100%;
+                height: 250px;
+                
+            }
+
+            .wakumpd {
+                background-color: rgba(110, 108, 108, 0.425);
+                width: 400px;
+                height: 300px;
+                border-radius: 20px;
+                border: solid thin #0f0f0f;
+            }
+
+            .marumpd {
+                border-radius: 20px;
+            }
+
+            #askmpd {
+                border: none;
+                border-radius: 30px;
+                padding: 5px 10px;
+            }
+
+            .namelavelmpd {
+                background-color: rgba(0, 222, 222, 0.40);
+                margin: 0 auto;
+                width: 100%;
+                max-width: 800px;
+                font-size: 1rem;
+                line-height: auto;
+            }
+
+            #footermpe {
+                background-image: url("../img/untitled99.png")
+            }
+
+            .jumbotronmpe {
+                position: relative;
+                background-image: url("../img/tophaikei.jpg");
+                background-size: cover;
+                padding: 200px 0;
+
+            }
+
+            .menumpe {
+                background-color: #c7c7c959;
+                width: 100%;
+                height: 50px;
+            }
+
+            .back0mpe {
+                background-color: rgba(255, 253, 253, 0.932);
+                margin: 0 auto;
+                width: 100%;
+                max-height: 1000px;
+                max-width: 800px;
+                border-radius: 10px;
+            }
+
+            .back1mpe {
+                background-color: rgba(255, 253, 253, 0.932);
+                margin: 0 auto;
+                width: 100%;
+                max-height: 300px;
+                max-width: 500px;
+                border-radius: 10px;
+            }
+
+            .imazinempe {
+                background-color: rgba(59, 59, 59, 0.253);
+                width: 100%;
+                height: 250px;
+                background-image: url("../img/single3.PNG");
+            }
+
+            .wakumpe {
+                background-color: rgba(110, 108, 108, 0.425);
+                width: 400px;
+                max-height: 500px;
+                border-radius: 20px;
+                border: solid thin #0f0f0f;
+            }
+
+            .marumpe {
+                border-radius: 20px;
+            }
+
+            #askmpe {
+                border: none;
+                border-radius: 30px;
+                padding: 5px 10px;
+            }
+
+            .namelavelmpe {
+                background-color: rgba(0, 222, 222, 0.40);
+                margin: 0 auto;
+                width: 100%;
+                max-width: 800px;
+                font-size: 1rem;
+                line-height: auto;
+            }
+.backsignuph {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1signuph {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 1100px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+h2signuph {
+    text-align: center;
+}
+

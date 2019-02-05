@@ -1,0 +1,323 @@
+﻿.back0apc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1apc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+.back0apcc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1apcc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+.h4apcc {
+    text-align: center;
+    font-size: 40px;
+}
+
+.jumbotroncr{
+    position: relative;
+    background-image: url("../img/tophaikei.jpg");
+    background-size: cover;
+    padding: 200px 0;
+}
+.backcr{
+background-color: rgba(255, 255, 255, 0.849);
+margin: 0 auto;
+width: 100%;
+height: 600px;
+max-width: 700px;
+border-radius: 10px;
+}
+
+.namelavelcr{
+background-color:rgba(0,222,222,0.40);
+margin:0 auto;
+width:100%;
+max-width:700px;
+font-size:1rem;
+line-height:auto;
+}
+
+.chatusercr{
+height:120px;
+border: solid thin #0f0f0f;
+}
+
+.chatuserimgcr{
+height:100px;
+}
+.waku3cr{
+height:100px;
+
+
+}
+.waku4cr{
+height:100px;
+
+
+}
+.imgcr {
+width:auto;
+height:auto;
+max-width:100%;
+max-height:100%;
+}
+
+.namelavelcrd {
+    background-color: black;
+    margin: auto;
+    width: 100%;
+    max-width: 600px;
+    font-size: 1rem;
+
+    line-height: auto;
+    /*border-radius: 10px;*/
+}
+    .back0crd{
+        position: relative;
+        background-image: url("../img/tophaikei.jpg");
+        background-size:cover;
+        padding: 200px 0;
+        margin: 0;
+    }
+
+    .back3crd{
+        background-color: #D8F3F0;
+        padding: 20px 10px;
+        margin: 0 auto;
+        width: 100%;
+        max-width: 600px;
+        font-size: 1rem;
+        line-height: auto;
+    }
+
+#chat-frame {
+  min-width: 320px;
+  max-width: 800px;
+
+  padding: 1em 2em;
+
+}
+.chat-talk {
+  overflow: hidden;
+  margin: 0 0 1em 0;
+  padding: 0;
+}
+.chat-talk span {
+  display: block;
+  margin: 0;
+  padding: 0;
+
+}
+.chat-talk .talk-icon {
+  float: left;
+  width: auto;
+}
+.chat-talk .talk-content {
+  position: relative;
+  box-sizing: border-box;
+  width: auto;
+  min-height: 50px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin: 0 auto 0 70px;
+  padding: 1em;
+}
+.chat-talk .talk-icon img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: bottom;
+  border: 2px solid #fff;
+  border-radius: 50%;
+}
+.chat-talk .talk-content:before {
+  position: absolute;
+  top: 15px;
+  left: -20px;
+  display: block;
+  width: 0;
+  height: 0;
+  content: '';
+  border: 10px solid transparent;
+  border-right-color: #FFFFFF;
+}
+.chat-talk.mytalk .talk-icon {
+  float: right;
+}
+.chat-talk.mytalk .talk-content {
+  margin: 0 70px 0 auto;
+  color: #000;
+  background: #78FF6C;
+}
+.chat-talk.mytalk .talk-content:before {
+  right: -20px;
+  left: auto;
+  border-color: transparent;
+  border-left-color: #78FF6C;
+}
+    #ask{
+      border:none;
+      border-radius:30px;
+      padding: 5px 10px;
+    }
+
+
+
+.backlogin {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1login {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height:500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238,238,238 ,0.7);
+}
+
+.backpw {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1pw {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+.backpwrr {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1pwrr {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height:500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238,238,238 ,0.7);
+}
+
+.backpwrrc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1pwrrc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+.h4 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.backsc {
+    position: relative;
+    background-image: url("../img/ハサミ.jpg");
+    background-size: cover;
+    padding: 200px 0;
+    margin: 0;
+}
+
+.back1sc {
+
+    background-color: white;
+    padding: auto;
+    margin: 0 auto;
+    width: 100%;
+    height: 500px;
+    max-width: 1000px;
+    font-size: 1rem;
+    line-height: 1.7;
+    border-radius: 10px;
+    background-color: rgba(238, 238, 238, 0.7);
+}
+
+.h4sc {
+    text-align: center;
+    font-size: 40px;
+}
+
+
+.jumbotronindex{
+    background-image: url("../img/hairdresser.jpg");
+    background-size: cover;
+    height:1000px;
+}
